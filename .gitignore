@@ -7,8 +7,6 @@ mywork/
 dataprojects/*
 **OLD*
 **class-*
-labs/
-**labs/*
 
 # Jekyll
 _site/

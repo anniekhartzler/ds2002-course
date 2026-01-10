@@ -2,7 +2,7 @@
 
 The goal of this activity is to familiarize you with the fundamental commands used in Unix-like environments (Linux and macOS). These commands are essential for navigating the filesystem, managing files and directories, and manipulating data efficiently. 
 
-**Instructions**: Go to your ***forked course repository*** and start Codespaces as described in the [course's general setup instructions](../../setup/README.md). 
+> **Note:** Go to your ***forked course repository*** and start Codespaces as described in the [course's general setup instructions](../../setup/README.md). 
 
 > **Advanced: Optional** - If you set up software tools on your own computer, for an additional challenge, complete these exercises on your local laptop using either the MacOS Terminal (Mac) or Git Bash (Windows). You may need to modify some commands accordingly.
 
@@ -15,6 +15,13 @@ If the initial examples feel like a breeze, challenge yourself with activities i
 * Optional: Explore the **Advanced Concepts** if you wish to explore CLI and filesystem in more depth.
 
 ## In-class exercises
+
+Today we will walk through the first lab assignment together. 
+
+- Work through CLI commands: [Lab 01](../../labs/01-cli/README.md)
+- Submit your work as Lab 1 on Canvas. See [submission instructions](../../labs/README.md).
+
+## Addiitonal Practice
 
 ### Finding Help
 
@@ -647,9 +654,6 @@ Connect using the password given to you in the Canvas instructions for this lab.
 3. View the `history` of this account. Since all students are sharing a single account name, you'll see the history of other students included.
 4. To leave the SSH session, type `exit`.
 
-
-## Additional Practice
-
 ### hostname
 
 Use the `hostname` command to display the hostname (network name) of the system. It's useful for identifying which machine you're working on, especially in remote or cloud environments.
@@ -724,22 +728,6 @@ BUG_REPORT_URL="https://gitlab.alpinelinux.org/alpine/aports/-/issues"
 - `BUG_REPORT_URL` - Where to report issues
 
 ## Navigating the file system
-
-### Where am I? pwd (Print Working Directory)
-
-Use the `pwd` command to display the full path of the current working directory. It's essential for knowing where you are in the filesystem hierarchy.
-
-```bash
-pwd
-```
-
-Your output may look like this:
-```bash
-/home/codespace
-```
-
-It shows the absolute path to your current directory. In this example, you're in the `/home/codespace` directory, which is typically the home directory in a codespace environment.
-
 
 ### ls (List)
 
