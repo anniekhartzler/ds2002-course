@@ -1,0 +1,6 @@
+name	house	course_name	semester
+Harry Potter	Gryffindor	Defense Against the Dark Arts	Fall 1995
+Hermione Granger	Gryffindor	Potions	Fall 1995
+Ron Weasley	Gryffindor	Herbology	Fall 1995
+Neville Longbottom	Gryffindor	Herbology	Fall 1995
+Ginny Weasley	Gryffindor	Defense Against the Dark Arts	Fall 1995
