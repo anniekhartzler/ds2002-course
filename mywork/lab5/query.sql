@@ -1,7 +1,5 @@
-USE kwj2hk_db;
+USE iss;
 
-SELECT s.name, s.house, e.course_name, e.semester
-FROM students s
-JOIN enrollments e
-ON s.student_id = e.student_id
-WHERE s.house = 'Gryffindor';
+SELECT l.location_id, l.timestamp, l.latitude, l.longitude, r.reporter_name AS reporter
+FROM locations l
+JOIN reporters r ON l.reporter_id = r.reporter_id;
