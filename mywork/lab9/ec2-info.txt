@@ -1,0 +1,33 @@
+{
+  "ImageId": "ami-07ff62358b87c7116",
+  "InstanceId": "i-09829fd2c5dc3d692",
+  "InstanceType": "t3.nano",
+  "InstanceName": "ds2002-demo",
+  "PublicIpAddress": "54.234.9.240",
+  "State": {
+    "Code": 16,
+    "Name": "running"
+  }
+}
+{
+  "ImageId": "ami-0ec10929233384c7f",
+  "InstanceId": "i-0a6918c494f7f0022",
+  "InstanceType": "t2.nano",
+  "InstanceName": "ds2002-private",
+  "PublicIpAddress": "54.237.238.122",
+  "State": {
+    "Code": 16,
+    "Name": "running"
+  }
+}
+{
+  "ImageId": "ami-04680790a315cd58d",
+  "InstanceId": "i-0a2d823c4f5da04f7",
+  "InstanceType": "t2.nano",
+  "InstanceName": "ds2002-kwj2hk",
+  "PublicIpAddress": "98.93.70.12",
+  "State": {
+    "Code": 16,
+    "Name": "running"
+  }
+}
