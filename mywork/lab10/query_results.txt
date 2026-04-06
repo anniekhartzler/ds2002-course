@@ -1,0 +1,46 @@
+student_id	name	house	enrollment_date
+1	Harry Potter	Gryffindor	2026-03-08 16:32:04
+2	Hermione Granger	Gryffindor	2026-03-08 16:32:04
+3	Ron Weasley	Gryffindor	2026-03-08 16:32:04
+4	Draco Malfoy	Slytherin	2026-03-08 16:32:04
+5	Luna Lovegood	Ravenclaw	2026-03-08 16:32:04
+6	Cedric Diggory	Hufflepuff	2026-03-08 16:32:04
+7	Cho Chang	Ravenclaw	2026-03-08 16:32:04
+8	Neville Longbottom	Gryffindor	2026-03-08 16:32:04
+9	Pansy Parkinson	Slytherin	2026-03-08 16:32:04
+10	Ginny Weasley	Gryffindor	2026-03-08 16:32:04
+11	Seamus Finnigan	Gryffindor	2026-03-08 16:32:04
+12	Padma Patil	Ravenclaw	2026-03-08 16:32:04
+enrollment_id	course_name	semester	student_id
+101	Defense Against the Dark Arts	Fall 1995	1
+102	Potions	Fall 1995	2
+103	Herbology	Fall 1995	3
+104	Potions	Fall 1995	4
+105	Care of Magical Creatures	Fall 1995	5
+106	Charms	Fall 1995	6
+107	Transfiguration	Fall 1995	7
+108	Herbology	Fall 1995	8
+109	Potions	Fall 1995	9
+110	Defense Against the Dark Arts	Fall 1995	10
+111	Charms	Fall 1995	11
+112	Astronomy	Fall 1995	12
+113	Transfiguration	Fall 1995	11
+student_id	name	house	course_name	semester
+1	Harry Potter	Gryffindor	Defense Against the Dark Arts	Fall 1995
+2	Hermione Granger	Gryffindor	Potions	Fall 1995
+3	Ron Weasley	Gryffindor	Herbology	Fall 1995
+4	Draco Malfoy	Slytherin	Potions	Fall 1995
+5	Luna Lovegood	Ravenclaw	Care of Magical Creatures	Fall 1995
+6	Cedric Diggory	Hufflepuff	Charms	Fall 1995
+7	Cho Chang	Ravenclaw	Transfiguration	Fall 1995
+8	Neville Longbottom	Gryffindor	Herbology	Fall 1995
+9	Pansy Parkinson	Slytherin	Potions	Fall 1995
+10	Ginny Weasley	Gryffindor	Defense Against the Dark Arts	Fall 1995
+11	Seamus Finnigan	Gryffindor	Charms	Fall 1995
+11	Seamus Finnigan	Gryffindor	Transfiguration	Fall 1995
+12	Padma Patil	Ravenclaw	Astronomy	Fall 1995
+house	num_students
+Gryffindor	6
+Slytherin	2
+Ravenclaw	3
+Hufflepuff	1
